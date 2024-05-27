@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" height="500" style="border-radius:20px" alt="Coding">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nimit Agarwal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nimit Agarwal    
 =====================================================================================================================================
 <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="300" style="border-radius:20px" alt="Coding">
 🔭 I’m currently working on Medical Diagnosis System Using Machine Learning. <br>
@@ -10,6 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [agarwalnimit88@gmail.com](mailto:agarwalnimit88@gmail.com)
 * 🧠  I'm learning Machine Learning
 
+
+[![](https://visitcount.itsvg.in/api?id=nimitagarwal26&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
  ### Skills
 
 <p align="left">
