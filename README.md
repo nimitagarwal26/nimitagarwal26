@@ -3,8 +3,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nimit Agarwal    
 =====================================================================================================================================
 <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="300" style="border-radius:20px" alt="Coding">
-🔭 I’m currently working on Medical Diagnosis System Using Machine Learning. <br>
-🤝 I’m looking for help with TensorFlow.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [agarwalnimit88@gmail.com](mailto:agarwalnimit88@gmail.com)
