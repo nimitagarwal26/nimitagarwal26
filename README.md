@@ -24,7 +24,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimitagarwal26&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/nimitagarwal26"><img src="https://github-readme-stats.vercel.app/api?username=nimitagarwal26&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="nimitagarwal26's GitHub stats"/></a>
 
